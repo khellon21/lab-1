@@ -12,4 +12,18 @@
 
 7. To rename a file named old.txt to new.txt, The command is use  `mv old.txt new.txt`
 
-8. 
+8. The command that  allows you to view the first 10 lines of a file is `head`
+
+9. The symbol `>` is used to redirect the output of a command into a file, overwriting the file's previous content
+
+10. The  command is used to search for a specific string of text or pattern within a file is `grep`
+
+11. The function of the command chmod +x script.sh `It makes the file executable.`
+
+12. The  command allows a permitted user to execute a command as the superuser (root) is `sudo`
+
+13. pipe operator | is use `It takes the output of the first command and uses it as input for the second command.`
+
+14. To delete a directory that is not empty without being prompted for every file is `rm -rf`
+
+15. The command `man` displays the manual pages for other commands. 
